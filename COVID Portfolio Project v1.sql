@@ -87,7 +87,7 @@ from Vac_vs_Pop
 order by 2,3
 
 --Also we can create temp Table using
---CREATE TABLE #temp_table (column_list) INSERT VALUES ()
+--CREATE TABLE #temp_table (column_list) INSERT INTO #temp_table ()
 
 --Create view to store data for later visualisation
 
